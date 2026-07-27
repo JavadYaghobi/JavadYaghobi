@@ -9,9 +9,9 @@ My current focus is building **real-world projects**, strengthening my skills in
 ## 🚀 **Currently**
 
 * 🔭 Building **real-world web projects**
-* 🌱 Improving **JavaScript**, **React**, **Next.js**, **API Integration**, **Git & GitHub**
+* 🌱 Improving **JavaScript**, **React**, **Next.js**, **API Integration**, and **Git & GitHub**
 * 📚 Learning **English** and **Computer Science**
-* 🎯 Future Goal: **Embedded Systems**, **STM32**, **ESP32**, **PCB Design** & **Artificial Intelligence**
+* 🎯 Future Goal: **Embedded Systems**, **STM32**, **ESP32**, **PCB Design**, and **Artificial Intelligence**
 
 ## 💻 **Tech Stack**
 
@@ -21,7 +21,8 @@ My current focus is building **real-world projects**, strengthening my skills in
 * **JavaScript (ES6+)**
 * **React**
 * **Next.js**
-* **Git & GitHub**
+* **Git**
+* **GitHub**
 * **Figma**
 
 ## ⚡ **Fun Fact**
