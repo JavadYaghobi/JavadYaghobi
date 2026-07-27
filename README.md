@@ -1,41 +1,29 @@
-Hi 👋, I'm Javad Yaghobi
+# Hi 👋, I'm **Javad Yaghobi**
 
-Frontend Developer | Computer Engineering Student
+### **Frontend Developer** | **Computer Engineering Student**
 
-I'm a Computer Engineering student passionate about building modern web applications and continuously learning new technologies.
+I'm a **Computer Engineering student** passionate about building modern web applications and continuously improving my software development skills.
 
-My current focus is creating real-world projects, improving my problem-solving skills, and writing clean, maintainable code. Alongside web development, I'm preparing for my long-term journey into Embedded Systems, Electronics, IoT, and Artificial Intelligence.
+My current focus is building **real-world projects**, strengthening my skills in **JavaScript**, **React**, **Next.js**, **API Integration**, and mastering **Git & GitHub**. Alongside web development, I'm preparing for my long-term journey into **Embedded Systems**, **Electronics**, **IoT**, and **Artificial Intelligence**.
 
-🚀 Currently
+## 🚀 **Currently**
 
-* 🔭 Building real-world web projects
-* 🌱 Improving JavaScript, React, API Integration, Git & GitHub
-* 📚 Learning English and Computer Science
-* 🎯 Future goal: Embedded Systems, STM32, ESP32, PCB Design & AI
+* 🔭 Building **real-world web projects**
+* 🌱 Improving **JavaScript**, **React**, **Next.js**, **API Integration**, **Git & GitHub**
+* 📚 Learning **English** and **Computer Science**
+* 🎯 Future Goal: **Embedded Systems**, **STM32**, **ESP32**, **PCB Design** & **Artificial Intelligence**
 
-💻 Tech Stack
+## 💻 **Tech Stack**
 
-* HTML5
-* CSS3
-* Tailwind CSS
-* JavaScript (ES6+)
-* React
-* Git & GitHub
-* Figma
+* **HTML5**
+* **CSS3**
+* **Tailwind CSS**
+* **JavaScript (ES6+)**
+* **React**
+* **Next.js**
+* **Git & GitHub**
+* **Figma**
 
-💬 Ask me about
+## ⚡ **Fun Fact**
 
-* HTML & CSS
-* JavaScript
-* React
-* Tailwind CSS
-* Git & GitHub
-
-📫 Contact
-
-* Email: [Javad.yaghobi.2006@gmail.com](mailto:Javad.yaghobi.2006@gmail.com)
-* GitHub: https://github.com/JavadYaghobi
-
-⚡ Fun fact
-
-I enjoy turning ideas into real projects and documenting my learning journey on GitHub.
+I enjoy turning ideas into **real-world projects** and documenting my learning journey on **GitHub**.
