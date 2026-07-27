@@ -1,29 +1,48 @@
-<h1>Hi 👋, I'm <b>Javad Yaghobi</b></h1>
-<br>
-<p>
-  <b>Frontend Developer</b> • <b>Computer Engineering Student</b>
+# Hi 👋, I'm Javad Yaghobi
+<br><br>ㅤ
+### Frontend Developer | Computer Engineering Student
+
+I'm a Computer Engineering student passionate about building modern, fast, and user-friendly web applications. I enjoy transforming ideas into clean, scalable, and maintainable code while continuously improving my development skills through real-world projects.
+
+My long-term goal is to combine software and hardware by specializing in Embedded Systems, IoT, and Artificial Intelligence. I'm currently focused on mastering frontend development while gradually expanding my knowledge in embedded programming, electronics, and AI.
+
+
+
+## 🚀 About Me
+<br><br>ㅤ
+- 🔭 I'm currently building modern web applications with **React** and **Next.js**
+- 🌱 I'm currently learning **Next.js**, **TypeScript**, **Python**, and **Embedded Systems**
+- 👯 I'm looking to collaborate on **Frontend** and **Open Source** projects
+- 💬 Ask me about **JavaScript, React, Next.js, Tailwind CSS**
+- 🎯 Goal: Become an **AI & Embedded Systems Engineer**
+- ⚡ Fun fact: I enjoy learning by building real projects instead of just watching tutorials.
+
+
+
+## 🛠️ Languages & Tools
+<br><br>ㅤ
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,python,git,github,vscode" />
 </p>
 
-<br>
+ 
 
-I'm a **Computer Engineering student** passionate about building modern web applications and continuously improving my software development skills.
-
-My current focus is building **real-world projects**, strengthening my skills in **JavaScript**, **React**, **Next.js**, **API Integration**, and improving my **Git & GitHub** workflow. Alongside web development, I'm preparing for my long-term journey into **Embedded Systems**, **Electronics**, **IoT**, and **Artificial Intelligence**.
-
-
-## 🚀 Currently
-<br>
-- 🔭 Building **real-world web projects**
-- 🌱 Improving **JavaScript**, **React**, **Next.js**, **API Integration**, and **Git & GitHub**
-- 📚 Learning **English** and **Computer Science**
-- 🎯 Future Goal: **Embedded Systems**, **STM32**, **ESP32**, **PCB Design**, and **AI**
+## ❤️ Interests
+<br><br>ㅤ
+- 🌐 Frontend Development
+- ⚙️ Embedded Systems
+- 🤖 Artificial Intelligence
+- 📡 Internet of Things (IoT)
+- 💻 Open Source
+- 📚 Continuous Learning
+- 🚀 Building Real-World Projects
 
 
-## 💻 Tech Stack
-<br>
-**HTML5** • **CSS3** • **Tailwind CSS** • **JavaScript (ES6+)** • **React** • **Next.js** • **Git** • **GitHub** • **Figma**
 
-
-## ⚡ Fun Fact
-<br>
-I enjoy turning ideas into **real-world projects** and documenting my learning journey on **GitHub**.
+## 📫 Connect with Me
+<br><br>ㅤ
+<p align="left">
+  <a href="https://t.me/YOUR_USERNAME">
+    <img src="https://skillicons.dev/icons?i=telegram" />
+  </a>
+</p>
