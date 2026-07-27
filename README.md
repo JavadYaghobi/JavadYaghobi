@@ -2,13 +2,13 @@
 
 ### **Frontend Developer** | **Computer Engineering Student**
 
----
+
 
 I'm a **Computer Engineering student** passionate about building modern web applications and continuously improving my software development skills.
 
 My current focus is building **real-world projects**, strengthening my skills in **JavaScript**, **React**, **Next.js**, **API Integration**, and improving my **Git & GitHub** workflow. Alongside web development, I'm preparing for my long-term journey into **Embedded Systems**, **Electronics**, **IoT**, and **Artificial Intelligence**.
 
----
+
 
 ## 🚀 **Currently**
 
@@ -17,7 +17,7 @@ My current focus is building **real-world projects**, strengthening my skills in
 * 📚 Learning **English** and **Computer Science**
 * 🎯 Future Goal: **Embedded Systems**, **STM32**, **ESP32**, **PCB Design**, and **AI**
 
----
+
 
 ## 💻 **Tech Stack**
 
@@ -31,7 +31,7 @@ My current focus is building **real-world projects**, strengthening my skills in
 * **GitHub**
 * **Figma**
 
----
+
 
 ## ⚡ **Fun Fact**
 
