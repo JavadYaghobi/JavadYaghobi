@@ -1,3 +1,5 @@
+I'm Javad Yaghobi
+
 I'm a Computer Engineering student focused on frontend development, building modern and scalable web applications with React and Next.js.
 
 I enjoy writing clean, maintainable code and continuously improving my skills by building real-world projects.
