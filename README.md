@@ -1,9 +1,20 @@
-I'm Javad Yaghobi :)
+# Hi, I'm Javad Yaghobi :)
 
-I'm a Computer Engineering student focused on frontend development, building modern and scalable web applications with React and Next.js.
+I'm a Computer Engineering student interested in **Hardware, Electronics, and Embedded Systems**.
 
-I enjoy writing clean, maintainable code and continuously improving my skills by building real-world projects.
+I'm currently building my foundations in electronics, C/C++, microcontrollers, PCB design, and embedded systems through hands-on projects.
 
-My long-term goal is to become an AI & Embedded Systems Engineer, combining software, electronics, and intelligent systems to solve real-world problems.
+I enjoy understanding how things work at the hardware level and turning ideas into real, functional systems.
 
-Building software with purpose today, engineering intelligent systems for tomorrow.
+My long-term goal is to work at the intersection of **Embedded Systems, Electronics, and AI**, developing intelligent hardware products and real-world systems.
+
+**Currently learning:**
+
+* 🔧 Electronics & Hardware
+* ⚙️ Embedded Systems
+* 💻 C/C++
+* 🔌 Microcontrollers
+* 🖥️ PCB Design
+* 🤖 AI & Intelligent Systems
+
+> Learning the fundamentals. Building real hardware. Engineering intelligent systems.
