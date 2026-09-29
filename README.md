@@ -10,11 +10,11 @@ My long-term goal is to work at the intersection of **Embedded Systems, Electron
 
 **Currently learning:**
 
-* 🔧 Electronics & Hardware
-* ⚙️ Embedded Systems
-* 💻 C/C++
-* 🔌 Microcontrollers
-* 🖥️ PCB Design
-* 🤖 AI & Intelligent Systems
+*  Electronics & Hardware
+*  Embedded Systems
+*  C/C++
+*  Microcontrollers
+*  PCB Design
+*  AI & Intelligent Systems
 
 > Learning the fundamentals. Building real hardware. Engineering intelligent systems.
