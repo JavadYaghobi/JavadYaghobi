@@ -17,4 +17,4 @@ My long-term goal is to work at the intersection of **Embedded Systems, Electron
 *  PCB Design
 *  AI & Intelligent Systems
 
-> Learning the fundamentals. Building real hardware. Engineering intelligent systems.
+Learning the fundamentals. Building real hardware. Engineering intelligent systems.
